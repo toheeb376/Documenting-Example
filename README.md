@@ -7,6 +7,7 @@
 - [Recommendations](#recommendations)
 
 ### Project Overview
+---
 
 This data analaysis project aims to provide insights into the sales performance of an e-commerce company over the past year. By analyzing various aspects of the sales data, we seek identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
 
@@ -72,8 +73,17 @@ The analysis results are summarized as follows:
  1. SQL for Businesses by werty.
  2. [Stack Overflow](https://stack.com)
    
+😄
+💻
+
+|Heading1|Heading2|
+|--------|--------|
+|Content|Content2|
+|Python|SQL|
 
 
-
-
+`column_1`
  
+**bold**
+
+*italic*
